@@ -1,0 +1,5 @@
+c:\users\tadeuszowy pociong\documents\visual studio 2015\Projects\zad 3.b\zad 3.b\bin\Debug\zad 3.b.exe.config
+c:\users\tadeuszowy pociong\documents\visual studio 2015\Projects\zad 3.b\zad 3.b\bin\Debug\zad 3.b.exe
+c:\users\tadeuszowy pociong\documents\visual studio 2015\Projects\zad 3.b\zad 3.b\bin\Debug\zad 3.b.pdb
+c:\users\tadeuszowy pociong\documents\visual studio 2015\Projects\zad 3.b\zad 3.b\obj\Debug\zad 3.b.exe
+c:\users\tadeuszowy pociong\documents\visual studio 2015\Projects\zad 3.b\zad 3.b\obj\Debug\zad 3.b.pdb

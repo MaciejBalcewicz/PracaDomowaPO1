@@ -1,0 +1,6 @@
+c:\users\tadeuszowy pociong\documents\visual studio 2015\Projects\zad 3.a\zad 3.a\bin\Debug\zad 3.a.exe.config
+c:\users\tadeuszowy pociong\documents\visual studio 2015\Projects\zad 3.a\zad 3.a\bin\Debug\zad 3.a.exe
+c:\users\tadeuszowy pociong\documents\visual studio 2015\Projects\zad 3.a\zad 3.a\bin\Debug\zad 3.a.pdb
+c:\users\tadeuszowy pociong\documents\visual studio 2015\Projects\zad 3.a\zad 3.a\obj\Debug\zad 3.a.csprojResolveAssemblyReference.cache
+c:\users\tadeuszowy pociong\documents\visual studio 2015\Projects\zad 3.a\zad 3.a\obj\Debug\zad 3.a.exe
+c:\users\tadeuszowy pociong\documents\visual studio 2015\Projects\zad 3.a\zad 3.a\obj\Debug\zad 3.a.pdb
