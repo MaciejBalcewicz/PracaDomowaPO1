@@ -19,7 +19,7 @@ class Program
             if (!int.TryParse(Console.ReadLine(), out tablica[i]))
             {
                 Console.WriteLine("Podano nieprawidłową wartość. Wprowadź liczbę całkowitą.");
-                i--; // Powtórzenie wprowadzania tej samej wartości
+                i--;
             }
         }
 
