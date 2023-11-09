@@ -5,7 +5,7 @@ class Program
     static void Main()
     {
         string[,] dniTygodnia;
-        dniTygodnia = new string[7, 3]; // zmieniony rozmiar tablicy na 7 dni tygodnia
+        dniTygodnia = new string[7, 3]; 
 
         dniTygodnia[0, 0] = "poniedziałek";
         dniTygodnia[1, 0] = "wtorek";
