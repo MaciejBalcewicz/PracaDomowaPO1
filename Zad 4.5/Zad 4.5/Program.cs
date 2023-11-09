@@ -4,9 +4,9 @@ class Program
 {
     static void Main()
     {
-        int[] tab1 = { 1, 5, 7, 3, 9 }; // Przykładowa tablica źródłowa
+        int[] tab1 = { 1, 5, 7, 3, 9 }; 
         int n = tab1.Length;
-        int[] tab2 = new int[n]; // Tablica docelowa
+        int[] tab2 = new int[n];
 
         Console.WriteLine("Tablica źródłowa:");
         WyswietlTablice(tab1);
