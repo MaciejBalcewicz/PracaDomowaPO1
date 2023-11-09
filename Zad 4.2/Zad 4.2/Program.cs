@@ -4,8 +4,8 @@ class Program
 {
     static void Main()
     {
-        int[] tab1 = new int[] { 3, -5, 8, -2, 10, 0, 7, -4, 6, -1 }; // Wprowadzenie elementów tablicy tab1
-        int[] tab2 = new int[10]; // Nowa tablica tab2
+        int[] tab1 = new int[] { 3, -5, 8, -2, 10, 0, 7, -4, 6, -1 }; 
+        int[] tab2 = new int[10]; 
 
         Console.WriteLine("Elementy tablicy tab1:");
 
@@ -17,9 +17,9 @@ class Program
             {
                 for (int j = 0; j < tab2.Length; j++)
                 {
-                    if (tab2[j] == 0) // Znajdź pierwsze wolne miejsce w tablicy tab2
+                    if (tab2[j] == 0) 
                     {
-                        tab2[j] = tab1[i]; // Skopiuj dodatnią wartość z tab1 do tab2
+                        tab2[j] = tab1[i];
                         break;
                     }
                 }
