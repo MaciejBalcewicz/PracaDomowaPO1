@@ -1,0 +1,6 @@
+c:\users\tadeuszowy pociong\documents\visual studio 2015\Projects\5.2\5.2\bin\Debug\5.2.exe.config
+C:\Users\Tadeuszowy pociong\Documents\Visual Studio 2015\Projects\5.2\5.2\bin\Debug\5.2.exe
+C:\Users\Tadeuszowy pociong\Documents\Visual Studio 2015\Projects\5.2\5.2\bin\Debug\5.2.pdb
+C:\Users\Tadeuszowy pociong\Documents\Visual Studio 2015\Projects\5.2\5.2\obj\Debug\5.2.csprojResolveAssemblyReference.cache
+C:\Users\Tadeuszowy pociong\Documents\Visual Studio 2015\Projects\5.2\5.2\obj\Debug\5.2.exe
+C:\Users\Tadeuszowy pociong\Documents\Visual Studio 2015\Projects\5.2\5.2\obj\Debug\5.2.pdb

@@ -1,0 +1,6 @@
+c:\users\tadeuszowy pociong\documents\visual studio 2015\Projects\5.10\5.10\bin\Debug\5.10.exe.config
+c:\users\tadeuszowy pociong\documents\visual studio 2015\Projects\5.10\5.10\bin\Debug\5.10.exe
+c:\users\tadeuszowy pociong\documents\visual studio 2015\Projects\5.10\5.10\bin\Debug\5.10.pdb
+c:\users\tadeuszowy pociong\documents\visual studio 2015\Projects\5.10\5.10\obj\Debug\5.10.csprojResolveAssemblyReference.cache
+c:\users\tadeuszowy pociong\documents\visual studio 2015\Projects\5.10\5.10\obj\Debug\5.10.exe
+c:\users\tadeuszowy pociong\documents\visual studio 2015\Projects\5.10\5.10\obj\Debug\5.10.pdb
