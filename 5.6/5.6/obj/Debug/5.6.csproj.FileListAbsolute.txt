@@ -1,0 +1,6 @@
+c:\users\tadeuszowy pociong\documents\visual studio 2015\Projects\5.6\5.6\bin\Debug\5.6.exe.config
+C:\Users\Tadeuszowy pociong\Documents\Visual Studio 2015\Projects\5.6\5.6\bin\Debug\5.6.exe
+C:\Users\Tadeuszowy pociong\Documents\Visual Studio 2015\Projects\5.6\5.6\bin\Debug\5.6.pdb
+C:\Users\Tadeuszowy pociong\Documents\Visual Studio 2015\Projects\5.6\5.6\obj\Debug\5.6.csprojResolveAssemblyReference.cache
+C:\Users\Tadeuszowy pociong\Documents\Visual Studio 2015\Projects\5.6\5.6\obj\Debug\5.6.exe
+C:\Users\Tadeuszowy pociong\Documents\Visual Studio 2015\Projects\5.6\5.6\obj\Debug\5.6.pdb
