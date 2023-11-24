@@ -8,7 +8,6 @@ class Program
         int n = 10;
         int[] tab1 = { 1, -10, 20, -20, 10, 30, 40, -5, -4, -10 };
 
-        // Use a List to store positive values
         List<int> positiveValues = new List<int>();
 
         for (int i = 0; i < 10; i++)
@@ -19,10 +18,9 @@ class Program
             }
         }
 
-        // Convert the List back to an array
+
         int[] tab2 = positiveValues.ToArray();
 
-        // Print the result
         for (int i = 0; i < tab2.Length; i++)
         {
             Console.WriteLine(tab2[i]);
