@@ -1,36 +1,22 @@
-﻿using System;
+using System;
 
 class Program
 {
     static void Main()
     {
-        string[] identyfikatory = { "KOMG-2002", "BH-2010", "ABC-2015", "DEF-2000", "XYZ-2005" };
-        int obecnyRok = DateTime.Now.Year;
+        string[] identyfikatory = { "KOMG-2002", "BH-2010", "XYZ-2015", "ABC-2005", "DEF-2022" };
 
-        Console.WriteLine("Liczba lat, jakie upłynęły od zakupu dla poszczególnych środków trwałych:");
+        int aktualnyRok = DateTime.Now.Year;
 
         foreach (string identyfikator in identyfikatory)
         {
-            int rokZakupu = PobierzRokZakupu(identyfikator);
-            if (rokZakupu != -1)
-            {
-                int lataUplynelo = obecnyRok - rokZakupu;
-                Console.WriteLine($"{identyfikator}: {lataUplynelo} lat");
-            }
-            else
-            {
-                Console.WriteLine($"{identyfikator}: Błąd w wyodrębnieniu roku zakupu");
-            }
-        }
-    }
+            int rokZakupu = Int32.Parse(identyfikator.Split('-')[1]);
 
-    static int PobierzRokZakupu(string identyfikator)
-    {
-        string[] podzielony = identyfikator.Split('-');
-        if (podzielony.Length == 2 && podzielony[1].Length == 4 && int.TryParse(podzielony[1], out int rok))
-        {
-            return rok;
+            int lataOdZakupu = aktualnyRok - rokZakupu;
+
+            Console.WriteLine($"Identyfikator: {identyfikator}, Lata od zakupu: {lataOdZakupu}");
         }
-        return -1; 
+        Console.ReadKey();
     }
 }
+
