@@ -1,0 +1,5 @@
+c:\users\tadeuszowy pociong\documents\visual studio 2015\Projects\zadania z listy 3\zadania z listy 3\bin\Debug\zadania z listy 3.exe.config
+c:\users\tadeuszowy pociong\documents\visual studio 2015\Projects\zadania z listy 3\zadania z listy 3\bin\Debug\zadania z listy 3.exe
+c:\users\tadeuszowy pociong\documents\visual studio 2015\Projects\zadania z listy 3\zadania z listy 3\bin\Debug\zadania z listy 3.pdb
+c:\users\tadeuszowy pociong\documents\visual studio 2015\Projects\zadania z listy 3\zadania z listy 3\obj\Debug\zadania z listy 3.exe
+c:\users\tadeuszowy pociong\documents\visual studio 2015\Projects\zadania z listy 3\zadania z listy 3\obj\Debug\zadania z listy 3.pdb

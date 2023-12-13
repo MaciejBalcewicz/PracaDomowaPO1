@@ -1,0 +1,6 @@
+c:\users\tadeuszowy pociong\documents\visual studio 2015\Projects\zadania z listy 2\zadania z listy 2\bin\Debug\zadania z listy 2.exe.config
+c:\users\tadeuszowy pociong\documents\visual studio 2015\Projects\zadania z listy 2\zadania z listy 2\obj\Debug\zadania z listy 2.csprojResolveAssemblyReference.cache
+c:\users\tadeuszowy pociong\documents\visual studio 2015\Projects\zadania z listy 2\zadania z listy 2\bin\Debug\zadania z listy 2.exe
+c:\users\tadeuszowy pociong\documents\visual studio 2015\Projects\zadania z listy 2\zadania z listy 2\bin\Debug\zadania z listy 2.pdb
+c:\users\tadeuszowy pociong\documents\visual studio 2015\Projects\zadania z listy 2\zadania z listy 2\obj\Debug\zadania z listy 2.exe
+c:\users\tadeuszowy pociong\documents\visual studio 2015\Projects\zadania z listy 2\zadania z listy 2\obj\Debug\zadania z listy 2.pdb
