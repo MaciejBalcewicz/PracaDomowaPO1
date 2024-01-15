@@ -1,0 +1,6 @@
+c:\users\tadeuszowy pociong\documents\visual studio 2015\Projects\zadania z listy 9\zadania z listy 9\bin\Debug\zadania z listy 9.exe.config
+c:\users\tadeuszowy pociong\documents\visual studio 2015\Projects\zadania z listy 9\zadania z listy 9\bin\Debug\zadania z listy 9.exe
+c:\users\tadeuszowy pociong\documents\visual studio 2015\Projects\zadania z listy 9\zadania z listy 9\bin\Debug\zadania z listy 9.pdb
+c:\users\tadeuszowy pociong\documents\visual studio 2015\Projects\zadania z listy 9\zadania z listy 9\obj\Debug\zadania z listy 9.csprojResolveAssemblyReference.cache
+c:\users\tadeuszowy pociong\documents\visual studio 2015\Projects\zadania z listy 9\zadania z listy 9\obj\Debug\zadania z listy 9.exe
+c:\users\tadeuszowy pociong\documents\visual studio 2015\Projects\zadania z listy 9\zadania z listy 9\obj\Debug\zadania z listy 9.pdb
