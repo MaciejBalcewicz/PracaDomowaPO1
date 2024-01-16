@@ -14,7 +14,7 @@ class Program
         var queue = new Queue<string>();
         var hashSet = new HashSet<string>();
 
-        // ... Add elements.
+  
         for (int i = 0; i < 1000; i++)
         {
             list.Add("OK");
